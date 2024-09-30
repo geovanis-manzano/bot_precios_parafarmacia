@@ -1,0 +1,10 @@
+2024-09-26 15:50:35,596 - INFO - Realizando autenticacion ...
+2024-09-26 15:50:36,235 - INFO - Autenticacion completada con exito
+2024-09-26 15:50:36,235 - INFO - Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImJwbTExNzMyOSIsInJvbGUiOiJDbGllbnRlIiwiaWRTZXNpb24iOiI0MTM0MTQiLCJpZENDQUEiOiIxMyIsImlkU3Vic2VzaW9uIjoiMCIsIm5iZiI6MTcyNzM1ODY5MSwiZXhwIjoxNzI3MzY1ODkxLCJpYXQiOjE3MjczNTg2OTEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3QiLCJhdWQiOiJodHRwOi8vbG9jYWxob3N0In0.Ox48H2uZqOm5d0uQb8nIgDSLvSYOSPhlq4hl06tNxzk
+2024-09-26 15:50:36,237 - INFO - Descargando precios de medicamentos ...
+2024-09-26 15:50:36,238 - INFO - Descargando parafarmacia ...
+2024-09-26 15:50:53,942 - INFO - Descarga de precios de medicamentos completada con exito
+2024-09-26 15:51:11,031 - INFO - Datos almacenados en E:/Proyectos/bot_precios_parafarmacia/precios.xlsx
+2024-09-26 15:51:22,553 - INFO - Descarga de parafarmacia completada con exito
+2024-09-26 15:51:49,423 - INFO - Datos almacenados en E:/Proyectos/bot_precios_parafarmacia/parafarmacia.xlsx
+2024-09-26 15:51:50,036 - INFO - La sesión de BotPlus ha sido cerrada exitosamente
